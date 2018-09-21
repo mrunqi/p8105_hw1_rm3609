@@ -1,0 +1,11 @@
+---
+title: "ds_hw1_rm3609"
+author: "Runqi Ma"
+date: "2018/9/21"
+output: html_document
+---
+
+#preparation
+```{r chunk_pre}
+library(tidyverse)
+```
